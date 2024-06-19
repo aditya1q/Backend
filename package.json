@@ -1,0 +1,18 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "first backend project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Aditya Tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
